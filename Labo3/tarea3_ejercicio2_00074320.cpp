@@ -6,7 +6,7 @@ using namespace std;
 int main(){
     const float PI = 3.1416; //Declaramos una constante con el valor de PI
     float radio=0, area=0, perimetro=0;
-    cout<<"**** PROGRAMA QUE CALCULA EL ÁREA Y EL PERÍMETRO DE UN CÍRCULO ****"<<endl;
+    cout<<"**** PROGRAMA QUEs CALCULA EL ÁREA Y EL PERÍMETRO DE UN CÍRCULO ****"<<endl;
     cout<<"Ingrese el radio del círculo: ";
     cin>>radio;
     area=PI*(pow(radio, 2));

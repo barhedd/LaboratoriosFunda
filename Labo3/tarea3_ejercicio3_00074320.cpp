@@ -5,7 +5,7 @@ de la fórmula cuadrática. */
 using namespace std;
 int main(){
     float a,b,c, discriminante, x1, x2;
-    cout<<"**** PROGRAMA QUE CALCULA LAS SOLUCIONES DE UNA ECUACIÓN CUADRÁTICA ****"<<endl;
+    cout<<"**** PROGRAMA QUEs CALCULA LAS SOLUCIONES DE UNA ECUACIÓN CUADRÁTICA ****"<<endl;
     cout<<"Ingrese los valores de a, b y c: ";
     cin>>a>>b>>c;
     discriminante=((pow(b,2)-(4*a*c)));

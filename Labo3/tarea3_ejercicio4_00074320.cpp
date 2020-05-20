@@ -14,6 +14,6 @@ int main(){
     cout<<"Ingrese la cantidad de unidades compradas: ";
     cin>>cantidad;
     total=precio*cantidad;
-    cout<<"El total de dinero gastados en la compra del producto "<<producto<<" es: $"<<total;
+    cout<<"El total de dinero gastado en la compra del producto "<<producto<<" es: $"<<total;
     return 0;
 }
