@@ -4,7 +4,7 @@ enteros ingresados por el usuario. */
 using namespace std;
 int main(){
     int promedio, num1, num2, num3;
-    cout<<"Hola, bienvenido a mis programa que te ayudará a calcular el promedio de 3 números enteros"<<endl;
+    cout<<"Hola, bienvenido a mi programa que te ayudará a calcular el promedio de 3 números enteros"<<endl;
     cout<<"Por favor ingresa los 3 números: "<<endl;
     cin>>num1>>num2>>num3;
     promedio=(num1+num2+num3)/3;
